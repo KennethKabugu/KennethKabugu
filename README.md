@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @KennethKabugu|Graduate, JKUAT Class of '22|Top Honors in Bsc. Mechanical Engineering
-- 👀 I’m interested in production & manufacturing technologies and space science
+- 👀 I’m interested in Design, Production & Manufacturing technology and space science
 - In the process of manufacturing a hydrogen fuel cell for Industrial use, www.hadronenergy.co | Clean Energy🌱
 - 🌱 Nerd in Additve Manufacturing|3D printing|broader mechanical eng' discipline
 - 💞️ I’m looking to collaborate on matters of Clean Enenrgy, Space and Nanosats
-- I'm open to projects on material science(Materials engineering), production, and manufacturing
+- I'm open to projects on material science(Materials engineering), design and production, and manufacturing
 - 📫 Contact: kennethkimathi83@gmail.com|kenneth@hadronenergy.co|0795199553
 
 <!---
