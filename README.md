@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @KennethKabugu, 5th year student at JKUAT, pursuing a bachelor's degree in Mechanical Engineering. 
-- 👀 I’m interested in production & manufacturing technologies and space science. 
-- 🌱 I’m currently learning Additve Manufacturing and hands on 3D printing, alongside the broader mechanical eng' discipline.
-- 💞️ I’m looking to collaborate on matters of Space and Nanosats, specifically on the best material and method to manufacture nanosatellite mechanical structure. Moreover, I'm open to projects on material science, production, and manufacturing.
-- 📫 Reach me on kennethkimathi83@gmail.com or 0795199553/0790991715
+- 👋 Hi, I’m @KennethKabugu|Graduate, JKUAT Class of '22|Top Honors in Bsc. Mechanical Engineering
+- 👀 I’m interested in production & manufacturing technologies and space science
+- In the process of manufacturing a hydrogen fuel cell for Industrial use, www.hadronenergy.co | Clean Energy🌱
+- 🌱 Nerd in Additve Manufacturing|3D printing|broader mechanical eng' discipline
+- 💞️ I’m looking to collaborate on matters of Clean Enenrgy, Space and Nanosats
+- I'm open to projects on material science(Materials engineering), production, and manufacturing
+- 📫 Contact: kennethkimathi83@gmail.com|kenneth@hadronenergy.co|0795199553
 
 <!---
 KennethKabugu/KennethKabugu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
