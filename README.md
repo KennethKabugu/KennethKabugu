@@ -4,7 +4,7 @@
 - 🌱 Nerd in Additve Manufacturing|3D printing|broader mechanical eng' discipline
 - 💞️ I’m looking to collaborate on matters of Clean Enenrgy, Space and Nanosats
 - I'm open to projects on material science(Materials engineering), design and production, and manufacturing
-- 📫 Contact: kennethkimathi83@gmail.com|kenneth@hadronenergy.co|0795199553
+- 📫 Contact: kennethkimathi83@gmail.com| kenneth@hadronenergy.co| 0795199553
 
 <!---
 KennethKabugu/KennethKabugu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
